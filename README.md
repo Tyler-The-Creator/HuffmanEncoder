@@ -1,2 +1,0 @@
-# HuffmanEncoder
-Huffman Encoder program.

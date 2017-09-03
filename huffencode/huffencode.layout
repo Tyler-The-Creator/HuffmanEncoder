@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Driver.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1290" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="HuffmanNode.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="534" topLine="8" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="24" />
+			<Collapse line="32" />
+			<Collapse line="38" />
+			<Collapse line="42" />
+			<Collapse line="43" />
+			<Collapse line="53" />
+			<Collapse line="59" />
+			<Collapse line="60" />
+		</Folding>
+	</File>
+	<File name="HuffmanNode.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="141" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="14" />
+			<Collapse line="17" />
+		</Folding>
+	</File>
+	<File name="HuffmanTree.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3360" topLine="33" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="25" />
+			<Collapse line="39" />
+			<Collapse line="44" />
+			<Collapse line="48" />
+			<Collapse line="49" />
+			<Collapse line="65" />
+			<Collapse line="70" />
+			<Collapse line="71" />
+			<Collapse line="88" />
+		</Folding>
+	</File>
+	<File name="HuffmanTree.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="671" topLine="19" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

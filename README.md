@@ -1,5 +1,4 @@
 # HuffmanEncoder
-## Huffman Encoder program
 
 
 COMPILATION & EXECUTION - HUFFENCODE:
